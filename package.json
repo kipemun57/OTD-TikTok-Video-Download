@@ -1,0 +1,16 @@
+{
+  "name": "otd-tiktok-downloader",
+  "version": "1.0.0",
+  "description": "OTD TikTok Video Downloader App",
+  "scripts": {
+    "lint": "gradle lint"
+  },
+  "keywords": [
+    "android",
+    "kotlin",
+    "jetpack-compose",
+    "tiktok-downloader"
+  ],
+  "author": "AI Studio Builder",
+  "license": "ISC"
+}
